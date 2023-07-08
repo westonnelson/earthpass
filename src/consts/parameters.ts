@@ -10,7 +10,7 @@ export const contractConst = "0x3B04116ce645d062d89c4d50b579057AbCE37338";
 export const chainConst = "ZksyncEra";
 
 // Configure the primary color for buttons and other UI elements
-export const primaryColorConst = "green";
+export const primaryColorConst = "blue";
 
 // Choose between "light" and "dark" mode
 export const themeConst = "dark";
